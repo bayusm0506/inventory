@@ -1,0 +1,38 @@
+@charset "utf-8";
+#header{
+	margin-bottom: 20px;
+	height: 100px;
+	width: auto;
+	background-image: url(images/home.png);
+	background-repeat: no-repeat;
+}
+#navigasi{
+	height: 500px;
+	overflow: scroll;
+	width: 230px;
+	float: left;
+	margin-right: 15px;
+	border: thin solid #CCC;
+	font-size: 15pt;
+	font-family: Arial,  ;
+}
+#isi{
+	font-family: Arial, ;
+	height: auto;
+	width: auto;
+	
+}
+#footer{
+	height: 20px;
+	border: thin inset #CCC;
+	text-align: center;
+	margin-top: 20px;
+	font-family: Arial, ;
+	font-size: 10pt;
+	padding-top: 5px;
+	background-color: #7190E0;
+	border-radius:5px;
+}
+body {
+	background-image: url(images/main.gif);
+}/* CSS Document */
